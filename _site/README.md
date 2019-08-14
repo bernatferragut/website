@@ -1,1 +1,0 @@
-Bernat Ferragut personal website
