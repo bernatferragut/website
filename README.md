@@ -1,4 +1,4 @@
 # website
 personal website
 
-[bernatferragut.com](bernatferragut.com)
+[bernatferragut.com](http://bernatferragut.com/)
